@@ -1,0 +1,230 @@
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\MySql.Data.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\System.Memory.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\System.Buffers.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\bin\Debug\MySql.Data.xml
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\MySql.Data.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\System.Memory.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\System.Buffers.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\bin\Debug\MySql.Data.xml
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+C:\Users\Роман\source\repos\Курсовая(1)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\MySql.Data.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\System.Memory.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\System.Buffers.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\загрузки\Курсовая(2)\Курсовая(1)\bin\Debug\MySql.Data.xml
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+D:\загрузки\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowDeleteAndEdit.resources
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\MySql.Data.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\System.Memory.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\System.Buffers.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\bin\Debug\MySql.Data.xml
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowDeleteAndEdit.resources
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+C:\Users\Роман\source\repos\Курсовая(2)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\MySql.Data.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\System.Memory.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\System.Buffers.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\bin\Debug\MySql.Data.xml
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowDeleteAndEdit.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\MySql.Data.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\System.Memory.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\System.Buffers.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\bin\Debug\MySql.Data.xml
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowDeleteAndEdit.resources
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+C:\Users\Роман\source\repos\Курсовая(3)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\MySql.Data.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\System.Memory.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\System.Buffers.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\bin\Debug\MySql.Data.xml
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowDeleteAndEdit.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+D:\study\ТЕХНОЛОГИЯ ПРОГРАММИРОВАНИЯ\Курсовая работа\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Курсовая(1).exe.config
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Курсовая(1).exe
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Курсовая(1).pdb
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\MySql.Data.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Google.Protobuf.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Zstandard.Net.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\Renci.SshNet.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\System.Memory.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\System.Buffers.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\bin\Debug\MySql.Data.xml
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csprojAssemblyReference.cache
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).exe.config
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.Properties.Resources.resources
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowAdd.resources
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowDeleteAndEdit.resources
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowFirst.resources
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая_1_.WindowSecond.resources
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.GenerateResource.cache
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CoreCompileInputs.cache
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).csproj.CopyComplete
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).exe
+C:\Users\Я\Desktop\ТЕХНОЛОГИИ ПРОГРАММИРОВАНИЯ\Курсовая(5)\Курсовая(1)\obj\Debug\Курсовая(1).pdb
